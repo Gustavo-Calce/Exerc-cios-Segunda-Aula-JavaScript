@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(73, 129, 110);
+    color: white;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Titulo_Destaque{
+    color: blue;
+}
+
+#Titulo_principal{
+    font-size: 30px;
+    font-style: oblique;
+}
+
+ul{
+    list-style-type: lower-alpha;
+    position: static;
+}
+
+.Link_youtube{
+    font-size: 50px;
+}
+
+a:link{
+    color: lightseagreen;
+}
+
+a:hover{
+    color: deeppink
+}
+
+a:visited{
+    color: gold;
+}
